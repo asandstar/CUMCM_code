@@ -1,2 +1,2 @@
 # CUMCM_code_learning
-Code from books and clips.
+Code from books and videos.
